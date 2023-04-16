@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GitHub Users Application</string>
+    <string name="temp_title">Unidentified</string>
+    <string name="temp_subtitle">Unidentified</string>
+    <string name="temp_role">Unidentified</string>
+    <string name="temp_follower">\?</string>
+    <string name="temp_following">\?</string>
+    <string name="temp_repository">\?</string>
+    <string name="temp_company">Unidentified</string>
+    <string name="temp_location">Unidentified</string>
+    <string name="failed_to_load">Failed to load data :(</string>
+    <string name="not_found">Not Found!</string>
+    <string name="is_empty">Input is empty!</string>
+    <string name="home">Home</string>
+    <string name="found_info">Account Found</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="key_dark_mode">dark_mode</string>
+    <string name="switch_mode">Click this icon for Dark/Light Mode</string>
+    <string name="repository">Repositories</string>
+    <string name="followers">Follower</string>
+    <string name="followings">Following</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="github">GitHub</string>
+    <string name="github_logo">GitHub Logo</string>
+    <string name="avatar_icon">Avatar Icon</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search GitHub Users</string>
+    <string name="search_temp_message">Click search icon to find GitHub user</string>
+    <string name="no_favorite_user">Favorite User is Empty!</string>
+    <string name="popular_github_users">Popular Users</string>
+    <string name="removed">is removed</string>
+    <string name="theme_icon">Theme Icon</string>
+</resources>
